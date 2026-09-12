@@ -10,3 +10,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 *.tmp
+
+# Local-only source images and working assets (never publish).
+/_local/
+**/image-originals/
