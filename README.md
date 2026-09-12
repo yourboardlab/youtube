@@ -7,6 +7,8 @@
 | [yomi-calendar](yomi-calendar/) | 요미 캘린더 영상·썸네일·자막·게시 문구 |
 | [olumpos-english-radio](olumpos-english-radio/) | 올룸포스 잉글리시 라디오 웹툰 영상·음성·자막 |
 
+[올룸포스 유튜브 채널 설명 — 복사해서 사용하기](olumpos-english-radio/README.md#유튜브-채널-설명)
+
 콘텐츠마다 별도 폴더를 만들고 완성 영상, 자막, 게시 문구, 출처를 함께 관리합니다. 공개용 결과물만 추가하며 계정 인증정보, 개인 기록, 내부 자료는 포함하지 않습니다.
 
 새로 저장하는 이미지 원본은 로컬 전용 `_local/image-originals/` 아래에 보관합니다. 서비스와 콘텐츠별로 `yomi-calendar/<콘텐츠명>/`, `olumpos-english-radio/<콘텐츠명>/`으로 나누며, 이 경로는 Git에서 제외됩니다. 이미지 생성·다운로드 시 원본을 공개 콘텐츠 폴더에 복사하지 않습니다. 기존에 게시된 이미지에는 이번 규칙을 소급 적용하지 않았습니다.
