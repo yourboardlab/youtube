@@ -1,0 +1,48 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Malgun Gothic,45,&H003D2B30,&H003D2B30,&H00F6EDF3,&H00F6EDF3,-1,0,0,0,100,100,0,0,1,0,0,2,65,65,116,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.12,0:00:00.62,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤라{\fs45}\N헤베!
+Dialogue: 0,0:00:00.92,0:00:02.94,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤라{\fs45}\N엄마가 휴대폰 좀 그만 보랬지!
+Dialogue: 0,0:00:03.36,0:00:03.77,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤베{\fs45}\N응?
+Dialogue: 0,0:00:04.07,0:00:05.78,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤베{\fs45}\N엄마 나 휴대폰 안 보고 있는데?
+Dialogue: 0,0:00:06.08,0:00:07.16,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤베{\fs45}\N그냥 듣고 있는데?
+Dialogue: 0,0:00:07.58,0:00:07.92,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤라{\fs45}\N뭐?
+Dialogue: 0,0:00:08.22,0:00:08.91,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤라{\fs45}\N뭐 듣는데?
+Dialogue: 0,0:00:09.21,0:00:11.15,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤라{\fs45}\N또 이상한 애들 노래 듣는 거 아냐?
+Dialogue: 0,0:00:11.57,0:00:11.95,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤베{\fs45}\N응?
+Dialogue: 0,0:00:12.25,0:00:15.76,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤베{\fs45}\N엄마 나 지금 올룸포스 잉글리시 라디오\N듣고 있잖아.
+Dialogue: 0,0:00:16.06,0:00:16.49,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤라{\fs45}\N응?
+Dialogue: 0,0:00:16.79,0:00:17.57,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤라{\fs45}\N그게 뭔데?
+Dialogue: 0,0:00:17.87,0:00:19.17,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤라{\fs45}\N영어 공부하는 거야?
+Dialogue: 0,0:00:19.59,0:00:22.79,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤베{\fs45}\N그래 엄마, 이건 그냥 듣고만 있어도\N공부가 돼.
+Dialogue: 0,0:00:23.09,0:00:27.60,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤베{\fs45}\N화면을 안 봐도 굉장히 친절하고 상세하게\N설명해 준단 말이야.
+Dialogue: 0,0:00:28.02,0:00:29.20,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤라{\fs45}\N그런 인강도 있어?
+Dialogue: 0,0:00:29.50,0:00:35.77,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤베{\fs45}\N인강은 아니고, 요즘 트렌드 에이아이\N선생님들인데, 그리스 로마 신화의 인물들이
+Dialogue: 0,0:00:35.77,0:00:36.79,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤베{\fs45}\N선생님들이야!
+Dialogue: 0,0:00:37.21,0:00:38.90,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤라{\fs45}\N엄마도 같이 들어 봐도 될까?
+Dialogue: 0,0:00:39.20,0:00:40.94,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}아르테미스{\fs45}\N첫 말은 해를 뜻해요.
+Dialogue: 0,0:00:40.94,0:00:44.56,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}아르테미스{\fs45}\N숲길 위로 햇빛이 비치는 장면을 떠올려\N보세요.
+Dialogue: 0,0:00:44.56,0:00:49.06,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}아르테미스{\fs45}\N제가 천천히 말하고, 이어서 자연스러운\N빠르기로 말합니다.
+Dialogue: 0,0:00:49.06,0:00:51.81,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}아르테미스{\fs45}\N두 번 들은 다음 여러분 차례예요.
+Dialogue: 0,0:00:52.81,0:00:54.41,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}아르테미스{\fs45}\Nsun
+Dialogue: 0,0:00:55.06,0:00:56.45,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}아르테미스{\fs45}\Nsun
+Dialogue: 0,0:01:00.57,0:01:01.98,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤라{\fs45}\N근데 수업 자료는 없니?
+Dialogue: 0,0:01:02.28,0:01:05.07,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤라{\fs45}\N그래도 보면서 공부하는 게 더 효과적이지\N않니?
+Dialogue: 0,0:01:05.49,0:01:07.91,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤베{\fs45}\N당연히 수업 자료, 단어장 없는 게 없어.
+Dialogue: 0,0:01:08.21,0:01:11.29,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤베{\fs45}\N그것도 웹툰 형식으로 되어 있어서 굉장히\N재밌다고
+Dialogue: 0,0:01:11.71,0:01:14.09,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤라{\fs45}\N그럼 왜 안 보고 지금은 듣고만 있는\N거야?
+Dialogue: 0,0:01:14.39,0:01:15.35,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤베{\fs45}\N벌써 다 봤지!
+Dialogue: 0,0:01:15.65,0:01:19.08,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤베{\fs45}\N복습은 그냥 플레이리스트에 넣고 틀어\N놓기만 하면 돼.
+Dialogue: 0,0:01:19.38,0:01:21.12,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤베{\fs45}\N뭐 하러 또 봐 한 번 봤는데.
+Dialogue: 0,0:01:23.04,0:01:27.19,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤베{\fs45}\N재미있게 보고, 가볍게 복습하는 올룸포스\N잉글리시 라디오!
+Dialogue: 0,0:01:27.49,0:01:28.46,Default,,0,0,0,,{\an2\pos(1385,765)}{\fs29}헤베{\fs45}\N경험해 보세요!
